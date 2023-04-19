@@ -1,4 +1,9 @@
 # MSc_in_Business_Analytics
 Projects from my Master's Degree in Business Analytics
 
-This is an assignment for students to create a text-based adventure game using Python. The game should be completed within a maximum of 3 minutes and include a minimum of 3 stages (maximum of 5 stages), 2 defined variables, 1 loop, 1 nested conditional statement, and 1 fail() function that is executed whenever a user loses the game. The game should be an executable script that runs from beginning to end upon execution. The game should utilize Python essentials such as strings and string manipulation, user-defined functions and objects (variables), user input and input handling, conditional and nested conditional statements (if/elif/else), loops (for/while), and controlling for errors (try/except). Additionally, the game should include a docstring at the beginning of the script that is no more than 150 words, introduces the game and its purpose, and identifies any bugs that are not yet worked out.
+## Text Adventure Game
+The task is to design a text-based adventure game. My game is based on the TV Show "Game of Thrones"(actions take place in the season 5,6). The user plays for Arya Stark and has to find the House of Black and White to start training as a Faceless Man. The main goal is to pass all three stages and survive.
+Rounds
+- Reach Braavos
+- Trainings to become a Faceless Man
+- Identity struggles and loyalty to the Faceless Man
