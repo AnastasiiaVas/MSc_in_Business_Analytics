@@ -1,2 +1,1 @@
-# MSc_in_Business_Analytics
-Projects from my Master's Degree in Business Analytics
+### How can Olist -an e-commerce marketplace- leverage its existing data to sustain similar growth rates that were fueled by the COVID-19 pandemic?
